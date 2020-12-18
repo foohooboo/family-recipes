@@ -1,0 +1,2 @@
+TODO: DEFINE LAYOUT OF GOOGLE DOC BASED ON THE GOOGLE DOCUMENT STRUCTURE: https://developers.google.com/docs/api/concepts/structure
+AND ABILITY TO EXPORT AS JSON: https://developers.google.com/docs/api/samples/output-json#python
