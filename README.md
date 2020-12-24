@@ -1,5 +1,7 @@
 # family-recipes
-Attempt to modernize the family's recipe book which currently exists on Google Drive
+Attempt to modernize the family's recipe book which currently exists on Google Drive. New web app will sync with the existing google doc repository. 
+
+Trello: https://trello.com/b/4WNsAfl1/recipe-book
 
 ## Database
 host: family-recipes.cutdnpzgz2gb.us-west-2.rds.amazonaws.com <br>
